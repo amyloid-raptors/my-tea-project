@@ -28,17 +28,14 @@ function Home() {
 
   return (
     <main className={styles.main}>
-      <h1>Fast Refresh Demo</h1>
+      <h1>Tea.xyz</h1>
       <p>
-        Fast Refresh is a Next.js feature that gives you instantaneous feedback
-        on edits made to your React components, without ever losing component
-        state.
+          Get rewards for your open-source contributions
       </p>
       <hr className={styles.hr} />
       <div>
         <p>
-          Auto incrementing value. The counter won't reset after edits or if
-          there are errors.
+          Enhance the security of the software supply chain. Support the most important OSS projects. Earn rewards. Get recognition.
         </p>
         <p>Current value: {count}</p>
       </div>
